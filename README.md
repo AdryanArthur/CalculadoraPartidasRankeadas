@@ -1,5 +1,4 @@
-# DesafioDIO
-# Calculadora de partidas Rankeadas
+# DesafioDIO Calculadora de partidas Rankeadas
 **O Que deve ser utilizado**
 
 - Variáveis
